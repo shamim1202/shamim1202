@@ -39,9 +39,8 @@ As a MERN developer, I build robust, production-ready applications with a focus 
 🔹 Following: 3  
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats-trinibs-projects.vercel.app/api?username=shamim1202&show_icons=true&theme=merko&border_color=599200">
-
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats-trinibs-projects.vercel.app/?user=shamim1202&theme=merko&border=599200">
 
