@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/shamim1202/shamim1202/caf0b7c9847e29fdfa5253ed509cc6805fb3f8fa/github-header-banner.png)
+![Header](https://raw.githubusercontent.com/shamim1202/shamim1202/blob/ee46105a3369396e75996bdd476ef35d33752134/github-header-banner.png)
 
 
 ## 👋 Hey there, I’m Mehedi — Developer & Tech Enthusiast
