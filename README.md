@@ -1,10 +1,56 @@
-## 👋 Hi there!
+![Header](https://raw.githubusercontent.com/shamim1202/shamim1202/caf0b7c9847e29fdfa5253ed509cc6805fb3f8fa/github-header-banner.png)
 
-I'm Md. Mehedi Hasan Khan, a passionate full-stack MERN developer. Welcome to my GitHub profile!
 
-## 📝 About Me
+## 👋 Hey there, I’m Mehedi — Developer & Tech Enthusiast
 
-As a MERN developer, I build robust, production-ready applications with a focus on clean architecture and efficient workflows. I am committed to delivering high-quality solutions that meet both user and business needs.
+I’m a self-motivated developer who loves building things for the web.  
+From front-end interfaces to back-end logic, I enjoy the full journey of turning ideas into real, working projects.
+
+#### 💻 What I work with:
+- Front-end: Html, Css, JavaScript, React
+- Back-end: Node.js, Express.js REST APIs
+- Other Skills: Git, Vs Code, Database
+
+#### 🌱 Currently Improving: 
+- Advanced React & component patterns  
+- Node.js backend structure and API development  
+- Database management and full-stack project architecture
+- Expanding my GitHub portfolio with real-world apps
+- Building personal projects to improve my skills
+  
+
+#### 🎯 Goals: 
+- Grow as a Master full-stack developer  
+- Build tools that help people  
+- Keep learning every day and enjoy the journey
+- Always exploring new tools, frameworks, and ideas
+  
+Let’s build something cool! ⚡
+
+
+## 📬 Find me at
+<p align="center">
+  <a href="https://github.com/shamim1202">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  </a>
+
+  <a href="https://twitter.com/mehedihs2015">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" />
+  </a>
+
+  <a href="https://instagram.com/shamim120225">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&color=833AB4" />
+  </a>
+
+  <a href="mailto:mehedi.farzu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000" />
+  </a>
+</p>
+
 
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
@@ -54,26 +100,3 @@ As a MERN developer, I build robust, production-ready applications with a focus 
 - Created new features in [dragon-news](https://github.com/shamim1202/dragon-news) on 2025-10-21
 
 
-
-## 📬 Find me at
-<p align="center">
-  <a href="https://github.com/shamim1202">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
-  </a>
-
-  <a href="https://twitter.com/mehedihs2015">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" />
-  </a>
-
-  <a href="https://instagram.com/shamim120225">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&color=833AB4" />
-  </a>
-
-  <a href="mailto:mehedi.farzu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white&color=8B0000" />
-  </a>
-</p>
